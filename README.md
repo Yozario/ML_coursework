@@ -10,7 +10,7 @@
 ## Установка
 ```bash
 git clone https://github.com/Yozario/ML_coursework
-cd ML_Course_Work_dataset1
+cd ML_coursework
 pip install -r requirements.txt
 ```
 
